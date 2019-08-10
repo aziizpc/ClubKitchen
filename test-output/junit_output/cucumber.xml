@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Add to cart Feature" name="Add item to cart" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User opens clubkitchen................................................undefined
+When selects Mamacita.......................................................undefined
+Then User can add item......................................................undefined
+]]></failure>
+</testcase>
+</testsuite>

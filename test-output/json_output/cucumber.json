@@ -1,0 +1,55 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Add item to cart",
+        "description": "",
+        "id": "add-to-cart-feature;add-item-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User opens clubkitchen",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "selects Mamacita",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "User can add item",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Add to cart Feature",
+    "description": "",
+    "id": "add-to-cart-feature",
+    "keyword": "Feature",
+    "uri": "./src/test/java/com/bie/qa/features/one.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@one"
+      }
+    ]
+  }
+]
